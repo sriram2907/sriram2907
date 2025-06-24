@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 🎓 B.Tech IT | NPTEL Certified</h3>
+<h1 align="center">Hello 👋, I'm Sriram</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | 🎓 B.Tech IT | KCG COLLEGE OF TECHNOLOGY | NPTEL Certified</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Code.+Ride.+Repeat.;Full+Stack+Developer+In+Progress;React+%7C+Node+%7C+MongoDB+Lover" alt="Typing SVG" />
@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently building a **Budget Manager Web App**
 - 🌱 Learning the MERN Stack (MongoDB, Express, React, Node)
-- 📜 Certified in **Cloud Computing** & **IoT** via NPTEL (IIT)
-- ⚡ Fun Fact: I run a bike accessories brand called **Joje Gears**
+- 📜 Certified in **Cloud Computing** & **Network security** via NPTEL (IIT)
+- ⚡ Fun Fact: I run a bike accessories along with a clothing brand called **Joje Gears**
 
 ---
 ### 🛠️ Tech Stack
@@ -57,18 +57,23 @@
 
 
 ---
-
-### 📫 Connect with Me
+CONTACT
 
 <p align="center">
-  <a href="mailto:sriramv1227@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sriramv1227@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/sri-ram-92389425b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  <a href="https://github.com/sriram2907">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/sriram2907" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/srixxam" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
 </p>
 
