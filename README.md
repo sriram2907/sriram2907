@@ -57,23 +57,21 @@
 
 
 ---
-CONTACT
-
-<p align="center">
+CONTACT<p align="center">
   <a href="mailto:sriramv1227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" height="40" title="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" title="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" height="40" title="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/sriram2907" target="_blank">
-    <img src="https://img.shields.io/badge/-171515?style=for-the-badge&logo=github&logoColor=white&label=" height="40" title="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
   </a>
   &nbsp;
   <a href="https://instagram.com/srixxam" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" height="40" title="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" title="Instagram" style="border-radius: 8px;" />
   </a>
 </p>
 
