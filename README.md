@@ -57,20 +57,22 @@
 
 
 ---
-CONTACT<p align="center">
-  <a href="mailto:sriramv1227@gmail.com" target="_blank">
+CONTACT
+
+<p align="center">
+  <a href="mailto:sriramv1227@gmail.com" target="_blank" style="margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" title="Email" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank" style="margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://github.com/sriram2907" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
+  
+  <a href="https://github.com/sriram2907" target="_blank" style="margin: 0 12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" title="GitHub" style="filter: invert(100%);" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/srixxam" target="_blank">
+  
+  <a href="https://instagram.com/srixxam" target="_blank" style="margin: 0 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" title="Instagram" style="border-radius: 8px;" />
   </a>
 </p>
