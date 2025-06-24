@@ -61,19 +61,19 @@ CONTACT
 
 <p align="center">
   <a href="mailto:sriramv1227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" height="40" title="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" height="40" title="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/sriram2907" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-171515?style=for-the-badge&logo=github&logoColor=white&label=" height="40" title="GitHub" />
   </a>
   &nbsp;
   <a href="https://instagram.com/srixxam" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" height="40" title="Instagram" />
   </a>
 </p>
 
