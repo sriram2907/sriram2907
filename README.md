@@ -37,12 +37,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Shenanigans 🤓
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram2907&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram2907&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sriram2907&show_icons=true&theme=radical&border_radius=20&hide_title=true&count_private=true&custom_title=🔥+My+Code+Playground" width="45%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=sriram2907&theme=radical&border_radius=20&ring=F85D7F&fire=F85D7F&currStreakNum=F7A8B8&sideNums=F7A8B8" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram2907&layout=compact&theme=radical&langs_count=8&hide_title=true" width="45%" />
+</p>
+
+---
+
+### 🧪 Contribution Heatmap 🔥
+
+[![Sriram's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&bg_color=1f1f1f&color=e84c88&line=f85d7f&point=f7a8b8&area=true&hide_border=true)](https://github.com/sriram2907)
+
 
 ---
 
