@@ -1,84 +1,68 @@
-<h1 align="center">Hello 👋, I'm Sriram</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 🎓 B.Tech IT | KCG COLLEGE OF TECHNOLOGY | NPTEL Certified</h3>
+<h1 align="center">Hey there 👋, I'm Sriram</h1>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech IT @ KCG | NPTEL Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Code.+Ride.+Repeat.;Full+Stack+Developer+In+Progress;React+%7C+Node+%7C+MongoDB+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FDBFF&center=true&vCenter=true&width=500&lines=Code.+Ride.+Repeat.;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building a **Budget Manager Web App**
-- 🌱 Learning the MERN Stack (MongoDB, Express, React, Node)
-- 📜 Certified in **Cloud Computing** & **Network security** via NPTEL (IIT)
-- ⚡ Fun Fact: I run a bike accessories along with a clothing brand called **Joje Gears**
+- 🎯 Building: **Budget Manager Web App**
+- 🚀 Learning: **MERN Stack** (MongoDB, Express, React, Node)
+- 🧾 Certified: **Cloud Computing & Network Security** (NPTEL - IIT)
+- 🛵 Side Hustle: Running **Joje Gears** – bike accessories & custom clothing
 
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 </p>
 
 ---
 
-### 📊 GitHub Shenanigans 🤓
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram2907&show_icons=true&theme=radical&border_radius=20&hide_title=true&count_private=true&custom_title=🔥+My+Code+Playground" width="45%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sriram2907&theme=radical&border_radius=20&ring=F85D7F&fire=F85D7F&currStreakNum=F7A8B8&sideNums=F7A8B8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sriram2907&show_icons=true&hide_title=true&hide_rank=false&theme=tokyonight&border_radius=12" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sriram2907&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram2907&layout=compact&theme=radical&langs_count=8&hide_title=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram2907&layout=compact&theme=tokyonight&hide_title=true&langs_count=6" width="48%" />
 </p>
 
 ---
 
-### 🧪 Contribution Heatmap 🔥
-
-[![Sriram's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&bg_color=1f1f1f&color=e84c88&line=f85d7f&point=f7a8b8&area=true&hide_border=true)](https://github.com/sriram2907)
-
-
----
-CONTACT
+### 🔥 Contribution Activity
 
 <p align="center">
-  <a href="mailto:sriramv1227@gmail.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" title="Email" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/sri-ram-92389425b" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" />
-  </a>
-  
-  <a href="https://github.com/sriram2907" target="_blank" style="margin: 0 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" title="GitHub" style="filter: invert(100%);" />
-  </a>
-  
-  <a href="https://instagram.com/srixxam" target="_blank" style="margin: 0 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" title="Instagram" style="border-radius: 8px;" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sriramv1227@gmail.com"><img src="https://img.shields.io/badge/Gmail-sriramv1227@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sri-ram-92389425b"><img src="https://img.shields.io/badge/LinkedIn-Sriram-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/sriram2907"><img src="https://img.shields.io/badge/GitHub-sriram2907-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://instagram.com/srixxam"><img src="https://img.shields.io/badge/Instagram-@srixxam-purple?style=for-the-badge&logo=instagram" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Stay humble. Keep learning. Ride and Code.”</em>
+  <em>“Stay humble. Keep learning. Ride & Code.” 🧠🏍️💻</em>
 </p>
