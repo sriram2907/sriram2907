@@ -28,11 +28,11 @@
 
 ---
 
-### 🚀 My Code Arena
+### 📊 My Code Arena
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriram2907&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=15&custom_title=✨+Sriram's+Coding+Stats+✨" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram2907&theme=tokyonight&hide_border=true&border_radius=15&fire=FF9D00&currStreakLabel=7FDBFF&sideNums=F77BFA" width="46%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriram2907&theme=tokyonight&show_icons=true&border_radius=15&custom_title=✨+GitHub+Stats+✨" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram2907&theme=tokyonight&hide_border=true&border_radius=15&fire=FF9D00" width="46%" />
 </p>
 
 ---
@@ -40,15 +40,7 @@
 ### 🌍 Contribution Universe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&theme=aurora&hide_border=true&radius=15&area=true&point=FF00FF&line=00FFFF&color=00FFD1" />
-</p>
-
----
-
-### 🏆 Level Up!
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sriram2907&theme=tokyonight&no-frame=true&title=Commit,PullRequest,Repositories,Stars" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&theme=react-dark&hide_border=true&radius=15&area=true" />
 </p>
 
 ---
