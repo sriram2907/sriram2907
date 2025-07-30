@@ -27,19 +27,21 @@
 
 ---
 
-### 📊 GitHub Stats (Fun & Minimal)
+---
+
+### 📊 GitHub Stats (Minimal & Fun)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram2907&show_icons=true&theme=radical&hide_title=true&border_radius=10" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriram2907&theme=radical&hide_border=true&border_radius=10" width="46%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriram2907&show_icons=true&theme=tokyonight&hide_title=true&border_radius=10" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriram2907&theme=tokyonight&hide_border=true&border_radius=10" width="46%" />
 </p>
 
 ---
 
-### 🔥 Activity Timeline
+### 🔥 Contribution Activity (Animated)
 
 <p align="center">
-  <img src="https://github-activity-graph.cyclic.app/graph?username=sriram2907&theme=react-dark&custom_title=🔥+My+Contribution+Graph&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram2907&theme=github-compact&hide_border=true&radius=10" />
 </p>
 
 ---
